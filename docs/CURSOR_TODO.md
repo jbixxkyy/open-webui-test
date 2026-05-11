@@ -42,10 +42,10 @@
 
 ### Backend Shell Runtime
 - [x] PTY shell backend
-- [ ] Persistent terminal sessions
-- [ ] Live terminal streaming
+- [x] Persistent terminal sessions
+- [x] Live terminal streaming
 - [x] Command execution API
-- [ ] Sandbox runtime support
+- [x] Sandbox runtime support
 
 ### Frontend Terminal
 - [x] Connect xterm frontend
