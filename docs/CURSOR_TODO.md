@@ -10,9 +10,9 @@
 - [x] Create terminal panel UI
 - [x] Create Monaco editor component
 - [x] Create AI agent panel
-- [ ] Wire workspace into main app layout
+- [x] Wire workspace into main app layout
 - [x] Add dockable/resizable panels
-- [ ] Add workspace persistence
+- [x] Add workspace persistence
 - [x] Add command palette
 
 ---
