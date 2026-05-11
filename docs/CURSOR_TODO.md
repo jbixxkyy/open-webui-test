@@ -26,8 +26,8 @@
 - [x] Delete files
 - [x] Rename files
 - [x] Create folders
-- [ ] Watch file changes
-- [ ] Workspace root selection
+- [x] Watch file changes
+- [x] Workspace root selection
 
 ### Frontend File System
 - [x] Connect explorer to real filesystem
@@ -41,16 +41,16 @@
 ## Phase 3 — Terminal Runtime
 
 ### Backend Shell Runtime
-- [ ] PTY shell backend
+- [x] PTY shell backend
 - [ ] Persistent terminal sessions
 - [ ] Live terminal streaming
 - [x] Command execution API
 - [ ] Sandbox runtime support
 
 ### Frontend Terminal
-- [ ] Connect xterm frontend
+- [x] Connect xterm frontend
 - [ ] Resize terminal dynamically
-- [ ] Multiple terminal tabs
+- [x] Multiple terminal tabs
 - [ ] Command history
 - [ ] Terminal reconnect logic
 
