@@ -60,15 +60,15 @@
 
 ### Codebase Indexing
 - [x] Repo scanner
-- [ ] Symbol extraction
+- [x] Symbol extraction
 - [ ] tree-sitter integration
 - [ ] ripgrep integration
-- [ ] Dependency graph
-- [ ] Workspace embeddings
+- [x] Dependency graph
+- [x] Workspace embeddings
 - [ ] Vector database integration
 
 ### Semantic Search
-- [ ] Semantic code search
+- [x] Semantic code search
 - [ ] Function search
 - [ ] Symbol search
 - [ ] Cross-file references
