@@ -20,10 +20,10 @@
 ## Phase 2 — Filesystem Layer
 
 ### Backend Filesystem API
-- [ ] Read files
-- [ ] Write files
+- [x] Read files
+- [x] Write files
 - [ ] Create files
-- [ ] Delete files
+- [x] Delete files
 - [ ] Rename files
 - [ ] Create folders
 - [ ] Watch file changes
@@ -44,7 +44,7 @@
 - [ ] PTY shell backend
 - [ ] Persistent terminal sessions
 - [ ] Live terminal streaming
-- [ ] Command execution API
+- [x] Command execution API
 - [ ] Sandbox runtime support
 
 ### Frontend Terminal
@@ -59,7 +59,7 @@
 ## Phase 4 — Repo Intelligence
 
 ### Codebase Indexing
-- [ ] Repo scanner
+- [x] Repo scanner
 - [ ] Symbol extraction
 - [ ] tree-sitter integration
 - [ ] ripgrep integration
@@ -72,7 +72,7 @@
 - [ ] Function search
 - [ ] Symbol search
 - [ ] Cross-file references
-- [ ] Context ranking engine
+- [x] Context ranking engine
 
 ---
 
@@ -127,7 +127,7 @@
 - [ ] Agent memory storage
 
 ### Context Engine
-- [ ] Context builder
+- [x] Context builder
 - [ ] Context compression
 - [ ] Smart retrieval pipeline
 - [ ] Token budgeting
