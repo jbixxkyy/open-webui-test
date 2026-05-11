@@ -22,10 +22,10 @@
 ### Backend Filesystem API
 - [x] Read files
 - [x] Write files
-- [ ] Create files
+- [x] Create files
 - [x] Delete files
-- [ ] Rename files
-- [ ] Create folders
+- [x] Rename files
+- [x] Create folders
 - [ ] Watch file changes
 - [ ] Workspace root selection
 
