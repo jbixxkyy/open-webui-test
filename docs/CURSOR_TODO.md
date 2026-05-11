@@ -31,10 +31,10 @@
 
 ### Frontend File System
 - [x] Connect explorer to real filesystem
-- [ ] Open files in Monaco editor
-- [ ] Save modified files
-- [ ] Multi-tab editing
-- [ ] File icons + language detection
+- [x] Open files in Monaco editor
+- [x] Save modified files
+- [x] Multi-tab editing
+- [x] File icons + language detection
 
 ---
 
