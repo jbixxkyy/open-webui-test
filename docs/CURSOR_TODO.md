@@ -62,16 +62,16 @@
 - [x] Repo scanner
 - [x] Symbol extraction
 - [ ] tree-sitter integration
-- [ ] ripgrep integration
+- [x] ripgrep integration
 - [x] Dependency graph
 - [x] Workspace embeddings
-- [ ] Vector database integration
+- [x] Vector database integration
 
 ### Semantic Search
 - [x] Semantic code search
-- [ ] Function search
+- [x] Function search
 - [ ] Symbol search
-- [ ] Cross-file references
+- [x] Cross-file references
 - [x] Context ranking engine
 
 ---
