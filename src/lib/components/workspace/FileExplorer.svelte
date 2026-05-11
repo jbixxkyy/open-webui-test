@@ -1,18 +1,14 @@
 <script lang="ts">
-	export let files: string[] = [
-		'src/routes/+page.svelte',
-		'src/lib/components/workspace/WorkspaceLayout.svelte',
-		'backend/main.py'
-	];
+	import { workspaceFiles } from '$lib/stores/workspace';
 
-	export let selected = files[0];
+	let selected = '';
 </script>
 
 <div class="explorer">
 	<div class="header">EXPLORER</div>
 
 	<div class="tree">
-		{#each files as file}
+		{#each $workspaceFiles as file}
 			<button
 				class:selected={selected === file}
 				on:click={() => (selected = file)}
@@ -44,6 +40,7 @@
 		flex-direction: column;
 		gap: 2px;
 		padding: 0 8px;
+		overflow: auto;
 	}
 
 	button {
