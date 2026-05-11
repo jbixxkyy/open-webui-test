@@ -49,10 +49,10 @@
 
 ### Frontend Terminal
 - [x] Connect xterm frontend
-- [ ] Resize terminal dynamically
+- [x] Resize terminal dynamically
 - [x] Multiple terminal tabs
-- [ ] Command history
-- [ ] Terminal reconnect logic
+- [x] Command history
+- [x] Terminal reconnect logic
 
 ---
 
