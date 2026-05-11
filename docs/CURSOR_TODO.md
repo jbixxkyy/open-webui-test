@@ -11,9 +11,9 @@
 - [x] Create Monaco editor component
 - [x] Create AI agent panel
 - [ ] Wire workspace into main app layout
-- [ ] Add dockable/resizable panels
+- [x] Add dockable/resizable panels
 - [ ] Add workspace persistence
-- [ ] Add command palette
+- [x] Add command palette
 
 ---
 
@@ -30,7 +30,7 @@
 - [ ] Workspace root selection
 
 ### Frontend File System
-- [ ] Connect explorer to real filesystem
+- [x] Connect explorer to real filesystem
 - [ ] Open files in Monaco editor
 - [ ] Save modified files
 - [ ] Multi-tab editing
@@ -94,7 +94,7 @@
 - [ ] Search tool
 - [ ] Browser tool
 - [ ] Documentation tool
-- [ ] Memory tool
+- [x] Memory tool
 
 ---
 
@@ -121,10 +121,10 @@
 
 ### Long-Term Memory
 - [ ] Repo summaries
-- [ ] Architecture memory
+- [x] Architecture memory
 - [ ] Coding style memory
 - [ ] Prior decisions tracking
-- [ ] Agent memory storage
+- [x] Agent memory storage
 
 ### Context Engine
 - [x] Context builder
